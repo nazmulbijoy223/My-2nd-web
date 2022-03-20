@@ -1,0 +1,32 @@
+@media screen and (max-width:980px){
+    .lst{
+        margin-left: 18px;
+    }
+    .name img{
+        margin-left: 44%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .leftarea{
+        width: 28%;
+    }
+}
+@media screen and (max-width:480px) {
+    .name img{
+        margin-left: 40%;
+    }
+    .contener1 .leftarea{
+        margin-left: -15px;
+        width: 135px;
+    }
+    .contener1 .rightarea{
+        margin-right: 15px;
+    }
+    .area ul{
+        margin-left: 60px;
+    }
+    .lst h6{
+        margin-left: 93px;
+    }
+}
