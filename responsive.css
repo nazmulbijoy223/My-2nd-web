@@ -30,3 +30,39 @@
         margin-left: 93px;
     }
 }
+@media screen and (max-width:375px){
+    .name img{
+        margin-left: 37%;
+    }
+    .input .email{
+        width: 340px;
+    }
+    .input .pass{
+        width: 340px;
+    }
+    .input .submit{
+        width: 340px;
+    }
+    .st .hlf1{
+        width: 40%;
+    }
+    .st .hlf1 hr{
+        margin-left: 15px;
+    }
+    .st p {
+        margin: -22px 182px;
+    }
+    .st .hlf2{
+        width: 50%;
+    }
+    .st .hlf2 hr{
+        margin: -5px 0px;
+        margin-right: 58px;
+    }
+    .area{
+        margin-left: -25px;
+    }
+    .lst{
+        margin-left: -8px;
+    }
+}
